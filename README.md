@@ -58,10 +58,5 @@ A detailed analysis of feature importance was performed to identify the most cri
 ## Conclusion
 This project successfully demonstrates the use of a Random Forest Classifier for mushroom classification. The workflow includes data preprocessing, model training, evaluation, and feature importance analysis. Future work can involve improving model performance and deploying it in a user-friendly application.
 
-## Files in Repository
-1. **Mushroom-Classification.py:** Python script for data processing and model training.
-2. **mushrooms.csv:** Dataset used for training and testing the model.
 
-## Additional Notes
-A README file has been added to summarize the project structure and its purpose. For more detailed explanations, refer to the Python script and visualization outputs.
 
